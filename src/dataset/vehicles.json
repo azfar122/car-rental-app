@@ -1,0 +1,64 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "make": "Suzuki",
+      "model": "Mehran",
+      "type": "Hatchback",
+      "transmission": "Manual",
+      "price_per_hour": 104,
+      "description": "The Suzuki Mehran is a compact hatchback known for its simplicity and reliability. It offers basic features and economical performance, making it a popular choice for city driving and budget-conscious customers.",
+      "properties": {
+        "motor_power_hp": 40,
+        "fuel_type": "Petrol",
+        "engine_capacity_cc": 800,
+        "traction": "FWD"
+      }
+    },
+    {
+      "id": 2,
+      "make": "Toyota",
+      "model": "Corolla",
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "price_per_hour": 250,
+      "description": "The 2021 Toyota Corolla combines reliability with style. Known for its smooth ride and advanced safety features, it offers a comfortable and efficient driving experience.",
+      "properties": {
+        "motor_power_hp": 139,
+        "fuel_type": "Petrol",
+        "engine_capacity_cc": 1800,
+        "traction": "FWD"
+      }
+    },
+    {
+      "id": 3,
+      "make": "Toyota",
+      "model": "Fortuner",
+      "type": "SUV",
+      "transmission": "Automatic",
+      "price_per_hour": 750,
+      "description": "The 2020 Toyota Fortuner is a robust SUV known for its durability and off-road capability. With a spacious interior and advanced safety features, it offers a powerful and comfortable ride for both urban and rugged environments.",
+      "properties": {
+        "motor_power_hp": 275,
+        "fuel_type": "Diesel",
+        "engine_capacity_cc": 2800,
+        "traction": "4WD"
+      }
+    },
+    {
+      "id": 4,
+      "make": "Toyota",
+      "model": "Mark X",
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "price_per_hour": 500,
+      "description": "The 2015 Toyota Mark X offers a blend of luxury and performance. Known for its sleek design and smooth ride, it provides a refined driving experience with powerful engine options and a well-appointed interior.",
+      "properties": {
+        "motor_power_hp": 310,
+        "fuel_type": "Petrol",
+        "engine_capacity_cc": 2500,
+        "traction": "RWD"
+      }
+    }
+  ]
+}
